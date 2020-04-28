@@ -5,6 +5,7 @@ https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-
 """
 
 
+
 class Solution:
     def maximalSquare(self, matrix: List[List[str]]) -> int:
         if matrix is None or len(matrix) < 1:
